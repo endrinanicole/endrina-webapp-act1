@@ -1,0 +1,6 @@
+{
+  "name": "Aura Profile Hub",
+  "description": "Secure user profile and account management center with live avatar uploading, profile customization, credential controls, and personal file storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
